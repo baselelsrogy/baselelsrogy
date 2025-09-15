@@ -1,5 +1,7 @@
 # 💫 About Me:
-<h3>I’m Basel, student and passionate back-end developer committed to continuous learning and growth. With a strong foundation in back-end technologies and a working knowledge of front-end development, I am on a journey to becoming a full-stack developer capable of delivering complete, impactful solutions.<br><br>My approach is driven by curiosity, discipline, and a desire to solve real-world problems through technology. I thrive on learning new skills, embracing challenges, and improving a little each day. I’m currently focused on deepening my expertise in software development and exploring opportunities that push my boundaries.<br><br>I strongly believe in the power of collaboration and continuous improvement. I'm always eager to connect with fellow developers, contribute to meaningful projects, and be part of a community that values innovation and shared growth.</h3>
+<h3>I’m currently learning full-stack development, with a strong background in back-end technologies and solid experience in front-end development. I’m passionate about continuous learning, exploring new ideas, and pushing myself every day to grow and gain deeper expertise in the field.<br><br>
+
+Curiosity drives me to think differently, take on unique challenges, and create solutions that stand out. My goal is to build meaningful projects, expand my skills, and become a well-rounded developer capable of making real impact.</h3>
 
 
 - 🔭 I’m currently working on [Natours](https://github.com/baselelsrogy/Natours-app.git)
@@ -15,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/basel-elsrogy-929487349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basel-elsrogy-929487349" height="30" width="40" /></a>
-<a href="https://fb.com/basel elsrogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basel elsrogy" height="30" width="40" /></a>
 <a href="https://instagram.com/basel__elsrogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basel__elsrogy" height="30" width="40" /></a>
 </p>
 
