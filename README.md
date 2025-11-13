@@ -8,11 +8,11 @@ Curiosity drives me to think differently, take on unique challenges, and create 
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB**
 
-- 👨‍💻 All of my projects are available at [Click Me](https://github.com/baselelsrogy?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/baselelsrogy?tab=repositories)
 
 - 📫 How to reach me **baselhany88@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/basel-elsrogy-929487349/](https://www.linkedin.com/in/basel-elsrogy-929487349/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/basel-elsrogy?trk=contact-info)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
