@@ -28,6 +28,10 @@ Curiosity drives me to think differently, take on unique challenges, and create 
   <img src="https://nirzak-streak-stats.vercel.app/?user=baselelsrogy&theme=neon&hide_border=false" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/ertugakmann/ertugakmann/assets/134059022/acb457e2-ea95-4712-9521-1349020d5990"/>
+</p>
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=baselelsrogy&icon=0&color=0)](https://visitcount.itsvg.in)
