@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h3>I’m currently learning full-stack development, with a strong background in back-end technologies and solid experience in front-end development. I’m passionate about continuous learning, exploring new ideas, and pushing myself every day to grow and gain deeper expertise in the field.<br><br>
+<h3>I’m currently learning front-end development, with solid experience building user-focused interfaces and a strong understanding of modern web technologies. I’m passionate about continuous learning, exploring new ideas, and pushing myself every day to grow and deepen my expertise in creating engaging, accessible web experiences.<br><br>
 
 Curiosity drives me to think differently, take on unique challenges, and create solutions that stand out. My goal is to build meaningful projects, expand my skills, and become a well-rounded developer capable of making real impact.</h3>
 
